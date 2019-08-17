@@ -1,5 +1,5 @@
 # memcrashed-ddos
-Memcrashed ddos exploit - auto install with api shodan
+Memcrashed ddos exploit - api shodan : PSKINdQe1GyxGgecYz2191H2JoS9qvgD
 
 HOW INSTALL
  1. git clone https://github.com/zadachnik/memcrashed-ddos.git

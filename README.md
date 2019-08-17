@@ -12,8 +12,13 @@ HOW INSTALL
  8. pip3 install -r requirements.txt
 
 HOW RUN 
+
  1. python3 Memcrashed.py
- 
+
+HOW RUN WITHOUT API SHODAN
+
+ 1. python3 memcrashed-no-api.py
+
 Its all
 
 API  SHODAN : PSKINdQe1GyxGgecYz2191H2JoS9qvgD
